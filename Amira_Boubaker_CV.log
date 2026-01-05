@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.14)  5 JAN 2026 16:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.14)  5 JAN 2026 16:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Documents/cv/Amira_Boubaker_CV.tex
-(c:/Documents/cv/Amira_Boubaker_CV.tex
+**c:/myCV/Amira_Boubaker_CV.tex
+(c:/myCV/Amira_Boubaker_CV.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\user_\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -252,14 +252,14 @@ Package rerunfilecheck Info: File `Amira_Boubaker_CV.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  8667 strings out of 474486
- 137001 string characters out of 5743754
+ 136929 string characters out of 5743754
  1940542 words of memory out of 5000000
  30887 multiletter control sequences out of 15000+600000
  559623 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,293b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,285b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\user_\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/user_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/user_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/user_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Amira_Boubaker_CV.pdf (2 pages, 68707 bytes).
+Output written on Amira_Boubaker_CV.pdf (2 pages, 68733 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)

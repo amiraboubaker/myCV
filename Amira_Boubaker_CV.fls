@@ -1,6 +1,6 @@
-PWD c:\Documents\cv
+PWD c:\myCV
 INPUT C:\Users\user_\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Documents\cv\Amira_Boubaker_CV.tex
+INPUT c:\myCV\Amira_Boubaker_CV.tex
 OUTPUT Amira_Boubaker_CV.log
 INPUT C:\Users\user_\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\user_\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
