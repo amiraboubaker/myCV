@@ -1,4 +1,4 @@
-"# myCV
+------------------------------------------------------------------------"# myCV
 
 This repository contains Amira Boubaker's curriculum vitae (CV) in LaTeX format. The CV is professionally formatted and includes comprehensive information about education, work experience, skills, and achievements.
 
