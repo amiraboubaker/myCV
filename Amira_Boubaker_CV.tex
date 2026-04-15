@@ -1,98 +1,90 @@
-\documentclass[11pt,a4paper]{article}
+\documentclass[10pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
-\usepackage[scale=0.85]{geometry}
-\usepackage{hyperref}
-\hypersetup{hidelinks}
+\usepackage[a4paper,margin=1.35cm]{geometry}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
 \usepackage{enumitem}
-
-% Custom formatting
 \usepackage{titlesec}
-\titleformat{\section}{\Large\bfseries}{}{0pt}{}[\titlerule]
-\titlespacing{\section}{0pt}{12pt}{6pt}
+
+\pagestyle{empty}
+\flushbottom
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt plus 1pt minus 1pt}
+\setlist[itemize]{leftmargin=*,itemsep=2pt,topsep=3pt,parsep=0pt,partopsep=0pt}
+\setcounter{secnumdepth}{0}
+
+\titleformat{\section}{\large\bfseries\color{blue!65!black}}{}{0pt}{}[{\color{blue!65!black}\titlerule}]
+\titlespacing{\section}{0pt}{8pt plus 1pt minus 1pt}{4pt plus 1pt minus 1pt}
 
 \begin{document}
 
-\vspace*{24pt}
-
-% Header
 {\centering
-\textbf{\Large Amira Boubaker} \\
-\normalsize Full-Stack Web \& Mobile Developer \\
-\vspace{6pt}
-\small Monastir, Tunisia | +216-24-503-203 | amiraboubakeresprims@gmail.com \\
-\href{https://amiraboubaker.github.io/AmiraBoubaker-portfolio/}{Portfolio} | \href{https://www.linkedin.com/in/amira-boubaker/}{LinkedIn} | \href{https://github.com/amiraboubaker}{GitHub}
-\par
-}
-
-\vspace{12pt}
+{\LARGE \textbf{Amira Boubaker}}\\[7pt]
+Full-Stack Web \& Mobile Developer\\[4pt]
+Monastir, Tunisia \quad|\quad +216-24-503-203 \quad|\quad amiraboubakeresprims@gmail.com\\[4pt]
+\href{https://amiraboubaker.github.io/AmiraBoubaker-portfolio/}{Portfolio} \quad|\quad
+\href{https://www.linkedin.com/in/amira-boubaker/}{LinkedIn} \quad|\quad
+\href{https://github.com/amiraboubaker}{GitHub} \quad|\quad
+\href{https://leetcode.com/u/Amira2023/}{LeetCode}
+\par}
 
 \section{Profile}
-Innovative full-stack web and mobile developer with expertise in AI integration and scalable application architecture. Passionate about creating intuitive, user-centered solutions that drive business value and enhance user experience.
+Full-stack developer focused on React Native and modern web applications, with hands-on experience building AI-enabled products and scalable APIs. Strong in end-to-end delivery, clean architecture, and user-centered solutions.
 
-\section{Key Skills}
-\begin{itemize}[noitemsep]
-  \item \textbf{Frontend:} React Native, ReactJS, TypeScript, JavaScript, Dart
-  \item \textbf{Backend:} Node.js, API Development, REST APIs, PHP (Symfony 6),.NET
-  \item \textbf{Database \& Cloud:} Firebase, MySQL, MongoDB, Oracle, SQL Server
-  \item \textbf{Tools \& Methods:} Figma, Git, Agile/Scrum, UML, XCode
-  \item \textbf{Problem Solving:} Active in competitive programming, challenged myself to solve problems on \href{https://leetcode.com/u/Amira2023/}{LeetCode} to strengthen algorithmic skills
-\end{itemize}
+\section{Core Skills}
+\textbf{Frontend:} React Native, ReactJS, TypeScript, JavaScript, Dart
+
+\textbf{Backend:} Node.js, Express.js, Symfony 6, .NET, REST APIs
+
+\textbf{Databases \& Cloud:} Firebase, MySQL, MongoDB, Oracle, SQL Server
+
+\textbf{Tools:} Git, Figma, Agile/Scrum, UML, Xcode, VS Code
 
 \section{Experience}
-
-\textbf{React Native Developer} | Mobelite, Monastir \hfill February 2025 -- July 2025
-\begin{itemize}[noitemsep]
-  \item Architected and deployed JourneyBuddy, an AI-assisted trip planning mobile application with 50K+ users
-  \item Integrated interactive map systems and implemented AI-powered chatbot for personalized recommendations
-  \item Designed modular, scalable architecture improving app performance by 40\%
-  \item Managed complete deployment pipeline (APK/AAB generation and distribution)
+\textbf{React Native Developer, Mobelite (Monastir)} \hfill \textit{Feb 2025 -- Jul 2025}
+\begin{itemize}
+  \item Delivered JourneyBuddy, an AI-assisted travel app used by 50K+ users.
+  \item Integrated maps and an AI chatbot to personalize trip recommendations.
+  \item Built a modular mobile architecture designed for scalability, maintainability, and smooth feature expansion.
+  \item Owned mobile release flow, including APK/AAB generation and distribution.
 \end{itemize}
 
-\textbf{Software Engineer Student} | ESPRIM, Monastir \hfill October 2024 -- May 2025
-\begin{itemize}[noitemsep]
-  \item Developed full-stack Ktabinet e-commerce platform for online book sales
-  \item Implemented inventory management and payment integration systems
-  \item Tech Stack: Symfony 6, MySQL, Bootstrap, JavaScript, CSS
+\textbf{Software Engineer Student, ESPRIM (Monastir)} \hfill \textit{Oct 2024 -- May 2025}
+\begin{itemize}
+  \item Built full-stack e-commerce platform (Ktabinet) for online book sales.
+  \item Implemented inventory and payment workflows using Symfony 6 and MySQL.
 \end{itemize}
 
-\textbf{Software Engineer Intern} | Nexans, Monastir \hfill July 2024 -- September 2024
-\begin{itemize}[noitemsep]
-  \item Built ECTRH mobile HR management application for employee data and team tracking
-  \item Improved HR operational efficiency by 35\% through automated workflows
-  \item Enhanced cross-departmental communication capabilities
+\textbf{Software Engineer Intern, Nexans (Monastir)} \hfill \textit{Jul 2024 -- Sep 2024}
+\begin{itemize}
+  \item Developed ECTRH, a mobile HR app for employee data and team tracking.
+  \item Implemented workflow automation to streamline HR operations and simplify daily team management.
 \end{itemize}
 
 \section{Projects}
+\textbf{JourneyBuddy (2025)} \hfill \textit{React Native, Node.js, MongoDB, AI Chatbot}
+\begin{itemize}
+  \item AI trip-planning app for agencies and travelers with personalized recommendations.
+  \item GitHub: \href{https://github.com/dghama/journeyBuddy-INT2}{github.com/dghama/journeyBuddy-INT2}
+\end{itemize}
 
-\textbf{Journey Buddy} (2025) | React Native, Node.js, MongoDB, AI Chatbot \\
-AI-powered mobile application designed for travel agencies and travelers to efficiently plan journeys and trips. Features intelligent recommendations to facilitate travel choices and preferences through personalized AI assistance.
+\textbf{HealthTracker (2025)} \hfill \textit{React Native, Firebase, AI Chatbot}
+\begin{itemize}
+  \item Wellness app for sleep, nutrition, and hydration tracking with AI coaching.
+  \item GitHub: \href{https://github.com/amiraboubaker/HealthTracker}{github.com/amiraboubaker/HealthTracker}
+\end{itemize}
 
-\textbf{HealthTracker} (2025) | React Native, Firebase, AI Chatbot \\
-Mobile health monitoring app tracking sleep, nutrition, and hydration with AI coaching bot for personalized wellness recommendations. \\
-\href{https://github.com/amiraboubaker/HealthTracker}{GitHub}
+\textbf{Eseac (2026)} \hfill \textit{Full-stack web application with chatbot and administration dashboard}
+\begin{itemize}
+  \item Supports new students, candidats, and visitors to interact with Eseac content and news manually or through a chatbot.
+  \item Includes administration features to manage students, teachers, and candidats.
+  \item GitHub: \href{https://github.com/amiraboubaker/eseac/}{github.com/amiraboubaker/eseac/}
+\end{itemize}
 
-\textbf{Google Gemini v2.0} (2024) | ReactJS, Google Gemini API \\
-AI-powered web application leveraging natural language processing with Google Gemini Flash 1.5 for intelligent question answering. \\
-\href{https://github.com/amiraboubaker/GoogleGemini}{GitHub}
-
-\section{Education}
-
-\textbf{Engineer Degree in Computer Engineering} | ESPRIM, Monastir \hfill September 2022 -- July 2025 \\
+\section{Education \& Certification}
+\textbf{Engineering Degree in Computer Engineering}, ESPRIM (Monastir) \hfill \textit{Sep 2022 -- Jul 2025}\\
 Specialization: Software Engineering
 
-\section{Technologies}
-
-\begin{itemize}[noitemsep]
-  \item \textbf{Languages:} JavaScript, TypeScript, Python, PHP, Dart, SQL, Node.js
-  \item \textbf{Frameworks \& Libraries:} React Native, ReactJS, Symfony 6, .NET, Express.js
-  \item \textbf{Databases \& Cloud:} Firebase, MySQL, MongoDB, Oracle, SQL Server
-  \item \textbf{Tools:} Figma, Git, XCode, VS Code, Agile/Scrum, REST API, UML
-\end{itemize}
-
-\section{Certifications}
-
-\begin{itemize}[noitemsep]
-  \item \textbf{AI Engineer:} AI Engineer for Data Scientists -- Associate (DataCamp)
-\end{itemize}
+\textbf{AI Engineer for Data Scientists -- Associate}, DataCamp
 
 \end{document}

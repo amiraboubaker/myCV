@@ -1,16 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.19)  1 MAR 2026 09:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.19)  15 APR 2026 14:05
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/myCV/Amira_Boubaker_CV.tex
-(c:/myCV/Amira_Boubaker_CV.tex
+**./Amira_Boubaker_CV.tex
+(Amira_Boubaker_CV.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Program Files\MiKTeX\tex/latex/base\size11.clo
-File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
 \c@section=\count276
@@ -209,24 +208,24 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 (Amira_Boubaker_CV.aux)
 \openout1 = `Amira_Boubaker_CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -236,23 +235,23 @@ LaTeX Font Info:    ... okay on input line 13.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(44.81126pt, 507.88533pt, 44.81128pt)
-* v-part:(T,H,B)=(50.70074pt, 718.29497pt, 76.05113pt)
+* h-part:(L,W,R)=(38.41139pt, 520.68509pt, 38.41139pt)
+* v-part:(T,H,B)=(38.41139pt, 768.22406pt, 38.41139pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=507.88533pt
-* \textheight=718.29497pt
-* \oddsidemargin=-27.45872pt
-* \evensidemargin=-27.45872pt
-* \topmargin=-58.56924pt
+* \textwidth=520.68509pt
+* \textheight=768.22406pt
+* \oddsidemargin=-33.8586pt
+* \evensidemargin=-33.8586pt
+* \topmargin=-70.8586pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=50.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -262,37 +261,38 @@ LaTeX Font Info:    ... okay on input line 13.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 13.
+Package hyperref Info: Link coloring OFF on input line 18.
 (Amira_Boubaker_CV.out) (Amira_Boubaker_CV.out)
 \@outlinefile=\write3
 \openout3 = `Amira_Boubaker_CV.out'.
 
  [1
 
-{C:/Users/amira/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (Amira_B
-oubaker_CV.aux)
+{C:/Users/amira/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Amira_Bouba
+ker_CV.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `Amira_Boubaker_CV.out' has not changed.
-(rerunfilecheck)             Checksum: BF9941F8FD3E07EC003EFFCEF16482C7;654.
+(rerunfilecheck)             Checksum: 2E148719597680D32593BF7EFDC114FF;532.
  ) 
 Here is how much of TeX's memory you used:
- 8705 strings out of 467866
- 134508 string characters out of 5428392
- 569723 words of memory out of 5000000
- 37533 multiletter control sequences out of 15000+600000
- 629275 words of font info for 45 fonts, out of 8000000 for 9000
+ 8692 strings out of 467866
+ 134347 string characters out of 5428392
+ 571568 words of memory out of 5000000
+ 37528 multiletter control sequences out of 15000+600000
+ 629921 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,285b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,271b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\amira\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
+1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Amira_Boubaker_CV.pdf (2 pages, 73067 bytes).
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
+s/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Amira_Boubaker_CV.pdf (1 page, 81960 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 59 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
