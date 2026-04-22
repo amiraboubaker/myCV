@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.19)  15 APR 2026 14:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.19)  20 APR 2026 11:11
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./Amira_Boubaker_CV.tex
-(Amira_Boubaker_CV.tex
+**c:/myCV/Amira_Boubaker_CV.tex
+(c:/myCV/Amira_Boubaker_CV.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -55,6 +56,28 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@dimlist=\toks20
 
 (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
 (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
 
@@ -208,24 +231,24 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 (Amira_Boubaker_CV.aux)
 \openout1 = `Amira_Boubaker_CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -261,8 +284,22 @@ LaTeX Font Info:    ... okay on input line 18.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 18.
-(Amira_Boubaker_CV.out) (Amira_Boubaker_CV.out)
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count301
+\scratchdimen=\dimen167
+\scratchbox=\box55
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen168
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks24
+)
+Package hyperref Info: Link coloring OFF on input line 19.
+ (Amira_Boubaker_CV.out) (Amira_Boubaker_CV.out)
 \@outlinefile=\write3
 \openout3 = `Amira_Boubaker_CV.out'.
 
@@ -278,19 +315,19 @@ Package rerunfilecheck Info: File `Amira_Boubaker_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 2E148719597680D32593BF7EFDC114FF;532.
  ) 
 Here is how much of TeX's memory you used:
- 8692 strings out of 467866
- 134347 string characters out of 5428392
- 571568 words of memory out of 5000000
- 37528 multiletter control sequences out of 15000+600000
+ 9616 strings out of 467866
+ 146985 string characters out of 5428392
+ 594982 words of memory out of 5000000
+ 38430 multiletter control sequences out of 15000+600000
  629921 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,271b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,277b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\amira\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Amira_Boubaker_CV.pdf (1 page, 81960 bytes).
+Output written on Amira_Boubaker_CV.pdf (1 page, 88500 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
