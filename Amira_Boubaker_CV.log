@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.19)  20 APR 2026 11:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.19)  22 APR 2026 16:00
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/myCV/Amira_Boubaker_CV.tex
-(c:/myCV/Amira_Boubaker_CV.tex
+**./Amira_Boubaker_CV.tex
+(Amira_Boubaker_CV.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -258,15 +257,15 @@ LaTeX Font Info:    ... okay on input line 19.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(38.41139pt, 520.68509pt, 38.41139pt)
-* v-part:(T,H,B)=(38.41139pt, 768.22406pt, 38.41139pt)
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 788.14136pt, 28.45274pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=520.68509pt
-* \textheight=768.22406pt
-* \oddsidemargin=-33.8586pt
-* \evensidemargin=-33.8586pt
-* \topmargin=-70.8586pt
+* \textwidth=540.60239pt
+* \textheight=788.14136pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -311,25 +310,32 @@ ker_CV.aux)
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-Package rerunfilecheck Info: File `Amira_Boubaker_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 2E148719597680D32593BF7EFDC114FF;532.
+
+
+Package rerunfilecheck Warning: File `Amira_Boubaker_CV.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Amira_Boubaker_CV.out':
+(rerunfilecheck)             Before: CFAF472B68877477E08838B5B3DB388D;852
+(rerunfilecheck)             After:  4DCDCFAF3A2D4997A81C1F9B4744F7BA;731.
  ) 
 Here is how much of TeX's memory you used:
- 9616 strings out of 467866
- 146985 string characters out of 5428392
- 594982 words of memory out of 5000000
+ 9614 strings out of 467866
+ 146961 string characters out of 5428392
+ 593988 words of memory out of 5000000
  38430 multiletter control sequences out of 15000+600000
  629921 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,277b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,353b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\amira\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Amira_Boubaker_CV.pdf (1 page, 88500 bytes).
+Output written on Amira_Boubaker_CV.pdf (1 page, 84752 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 62 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
