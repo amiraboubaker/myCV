@@ -1,27 +1,29 @@
 \documentclass[10pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
-\usepackage[a4paper,margin=1.35cm]{geometry}
+\usepackage[a4paper,margin=1.0cm]{geometry}
 \usepackage{xcolor}
 \usepackage[hidelinks]{hyperref}
 \usepackage{enumitem}
 \usepackage{titlesec}
+\usepackage{setspace}
 
 \pagestyle{empty}
 \flushbottom
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{3pt plus 1pt minus 1pt}
-\setlist[itemize]{leftmargin=*,itemsep=2pt,topsep=3pt,parsep=0pt,partopsep=0pt}
+\setstretch{1.06}
+\setlength{\parskip}{2pt}
+\setlist[itemize]{leftmargin=*,itemsep=1.5pt,topsep=2pt,parsep=0pt,partopsep=0pt}
 \setcounter{secnumdepth}{0}
 
 \titleformat{\section}{\large\bfseries\color{blue!65!black}}{}{0pt}{}[{\color{blue!65!black}\titlerule}]
-\titlespacing{\section}{0pt}{8pt plus 1pt minus 1pt}{4pt plus 1pt minus 1pt}
+\titlespacing{\section}{0pt}{7pt}{3pt}
 
 \begin{document}
 
 {\centering
-{\LARGE \textbf{Amira Boubaker}}\\[7pt]
-Full-Stack Web \& Mobile Developer\\[4pt]
-Monastir, Tunisia \quad|\quad +216-24-503-203 \quad|\quad amiraboubakeresprims@gmail.com\\[4pt]
+{\Large \textbf{Amira Boubaker}}\\[4pt]
+Junior Full-Stack Developer (Java / Angular)\\[2pt]
+Monastir, Tunisia \quad|\quad +216-24-503-203 \quad|\quad amiraboubakeresprims@gmail.com\\[2pt]
 \href{https://amiraboubaker.github.io/AmiraBoubaker-portfolio/}{Portfolio} \quad|\quad
 \href{https://www.linkedin.com/in/amira-boubaker/}{LinkedIn} \quad|\quad
 \href{https://github.com/amiraboubaker}{GitHub} \quad|\quad
@@ -29,51 +31,52 @@ Monastir, Tunisia \quad|\quad +216-24-503-203 \quad|\quad amiraboubakeresprims@g
 \par}
 
 \section{Profile}
-Full-stack developer focused on React Native and modern web applications, with hands-on experience building AI-enabled products and scalable APIs. Strong in end-to-end delivery, clean architecture, and user-centered solutions.
+Junior full-stack developer with 1+ year of hands-on experience delivering reliable web and mobile applications. Motivated to contribute to Java/Spring and Angular projects with a strong focus on code quality, performance, clean architecture, and continuous improvement. Collaborative, proactive, and comfortable in agile teams with French and English communication.
 
 \section{Core Skills}
-\textbf{Frontend:} React Native, ReactJS, TypeScript, JavaScript, Dart
+\textbf{Frontend:} Angular, TypeScript, HTML5, CSS3, React Native, ReactJS, JavaScript
 
-\textbf{Backend:} Node.js, Express.js, Symfony 6, .NET, REST APIs
+\textbf{Backend:} Java, Spring, Spring Boot, Node.js, Express.js, Symfony 6, .NET, REST APIs
 
-\textbf{Databases \& Cloud:} Firebase, MySQL, MongoDB, Oracle, SQL Server
+\textbf{API \& Testing:} REST API design, JSON serialization, Postman, Swagger/OpenAPI, unit testing (JUnit basics)
 
-\textbf{Tools:} Git, Figma, Agile/Scrum, UML, Xcode, VS Code
+\textbf{Data \& Persistence:} MySQL, MongoDB, Oracle, SQL Server, JPA/Hibernate basics
+
+\textbf{DevOps \& Tools:} Maven/Gradle basics, Docker basics, CI/CD concepts, Git, Agile/Scrum, UML, VS Code
+
+\textbf{Languages:} French, English
 
 \section{Experience}
 \textbf{Software Engineer, ESPITA (Sousse)} \hfill \textit{Mar 2026 -- Present}
 \begin{itemize}
   \item Building and delivering three institutional web applications for ESPITA, ESEAC Sfax, and EMP Sousse.
-  \item Designed AI-driven chatbot assistants that answer main user questions and improve self-service across the websites.
-  \item Focused on high-impact digital experiences, clean architecture, and scalable delivery across multiple educational platforms.
+  \item Participating in technical and functional design phases with project stakeholders to define scalable solutions.
+  \item Applying code optimization, documentation, code review practices, and structured bug tracking to improve delivery quality.
 \end{itemize}
 
 \textbf{React Native Developer, Mobelite (Monastir)} \hfill \textit{Feb 2025 -- Jul 2025}
 \begin{itemize}
   \item Delivered JourneyBuddy, an AI-assisted travel app used by 50K+ users.
-  \item Integrated maps and an AI chatbot to personalize trip recommendations.
-  \item Built a modular mobile architecture designed for scalability, maintainability, and smooth feature expansion.
-  \item Owned mobile release flow, including APK/AAB generation and distribution.
+  \item Built a modular architecture designed for scalability, maintainability, and reliable feature evolution.
+  \item Integrated REST APIs and managed mobile release flow (APK/AAB generation and distribution).
 \end{itemize}
 
 \textbf{Software Engineer Student, ESPRIM (Monastir)} \hfill \textit{Oct 2024 -- May 2025}
 \begin{itemize}
   \item Built full-stack e-commerce platform (Ktabinet) for online book sales.
-  \item Implemented inventory and payment workflows using Symfony 6 and MySQL.
+  \item Implemented inventory and payment workflows using Symfony 6 and MySQL with emphasis on maintainability.
 \end{itemize}
 
 \textbf{Software Engineer Intern, Nexans (Monastir)} \hfill \textit{Jul 2024 -- Sep 2024}
 \begin{itemize}
-  \item Developed ECTRH, a mobile HR app for employee data and team tracking.
-  \item Implemented workflow automation to streamline HR operations and simplify daily team management.
+  \item Developed ECTRH, a mobile HR app for employee data, team tracking, and workflow automation.
 \end{itemize}
 
 \section{Projects}
 
 \textbf{Eseac (2026)} \hfill \textit{Full-stack web application with chatbot and administration dashboard}
 \begin{itemize}
-  \item Supports new students, candidats, and visitors to interact with Eseac content and news manually or through a chatbot.
-  \item Includes administration features to manage students, teachers, and candidats.
+  \item Supports students and visitors through chatbot-guided interactions and an administration dashboard.
   \item GitHub: \href{https://github.com/amiraboubaker/eseac/}{github.com/amiraboubaker/eseac/}
 \end{itemize}
 
@@ -81,12 +84,6 @@ Full-stack developer focused on React Native and modern web applications, with h
 \begin{itemize}
   \item AI trip-planning app for agencies and travelers with personalized recommendations.
   \item GitHub: \href{https://github.com/dghama/journeyBuddy-INT2}{github.com/dghama/journeyBuddy-INT2}
-\end{itemize}
-
-\textbf{HealthTracker (2025)} \hfill \textit{React Native, Firebase, AI Chatbot}
-\begin{itemize}
-  \item Wellness app for sleep, nutrition, and hydration tracking with AI coaching.
-  \item GitHub: \href{https://github.com/amiraboubaker/HealthTracker}{github.com/amiraboubaker/HealthTracker}
 \end{itemize}
 
 \section{Education \& Certification}
